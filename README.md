@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [my website](sehyun493.github.io)
+- 🔭 I’m currently working on [my website](https://github.com/SeHyun493/sehyun493.github.io)
 
 - 🌱 I’m currently learning **Vue & Tailwind**
 
