@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Wasteless-Bites](https://github.com/Wastless-Bites/wasteless-bites)
+- 🔭 I’m currently working on [my website](sehyun493.github.io)
 
 - 🌱 I’m currently learning **Vue & Tailwind**
 
